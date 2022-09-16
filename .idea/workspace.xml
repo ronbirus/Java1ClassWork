@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e4d158-7012-4f61-8650-34e5cb81594c" name="Changes" comment="Added second example">
+    <list default="true" id="b4e4d158-7012-4f61-8650-34e5cb81594c" name="Changes" comment="Added account class">
+      <change afterPath="$PROJECT_DIR$/src/Sept16Examples/FunWithAccounts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept16Examples/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept16Examples/Account.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,8 @@
       <workItem from="1663330886341" duration="129000" />
       <workItem from="1663331682378" duration="689000" />
       <workItem from="1663340464270" duration="720000" />
-      <workItem from="1663343829897" duration="332000" />
+      <workItem from="1663343829897" duration="450000" />
+      <workItem from="1663344500444" duration="957000" />
     </task>
     <task id="LOCAL-00001" summary="Added second example">
       <created>1663340629131</created>
@@ -64,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663340629131</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added account class">
+      <created>1663344190354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663344190354</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added second example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added second example" />
+    <MESSAGE value="Added account class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added account class" />
   </component>
 </project>
